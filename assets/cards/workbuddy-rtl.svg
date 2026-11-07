@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="172" viewBox="0 0 440 172" role="img" aria-label="WorkBuddy RTL">
+  <defs>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B26"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="439" height="171" rx="18" fill="url(#bg)" stroke="url(#bd)"/>
+
+  <!-- icon tile -->
+  <rect x="24" y="24" width="44" height="44" rx="12" fill="url(#t)"/>
+  <g transform="translate(34,34)" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m5 8 6 6"/>
+    <path d="m4 14 6-6 2-3"/>
+    <path d="M2 5h12"/>
+    <path d="M7 2h1"/>
+    <path d="m22 22-5-10-5 10"/>
+    <path d="M14 18h6"/>
+  </g>
+
+  <!-- title + subtitle -->
+  <text x="84" y="50" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" letter-spacing="-0.4">WorkBuddy RTL</text>
+  <text x="84" y="70" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#8B93A7">Source code</text>
+
+  <!-- code button -->
+  <rect x="330" y="27" width="86" height="31" rx="15.5" fill="url(#t)"/>
+  <text x="363" y="47" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" letter-spacing="0.6" text-anchor="middle">CODE</text>
+  <g transform="translate(392,36)" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 17 17 7"/>
+    <path d="M7 7h10v10"/>
+  </g>
+
+  <!-- tags -->
+  <rect x="24" y="101" width="96" height="31" rx="15.5" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="72" y="121" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#B9BFCB" text-anchor="middle">JavaScript</text>
+
+  <rect x="132" y="101" width="76" height="31" rx="15.5" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="170" y="121" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#B9BFCB" text-anchor="middle">Node.js</text>
+
+  <rect x="220" y="101" width="62" height="31" rx="15.5" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="251" y="121" font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" fill="#B9BFCB" text-anchor="middle">CSS</text>
+</svg>
