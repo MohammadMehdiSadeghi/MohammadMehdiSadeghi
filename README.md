@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,55:4F46E5,100:8B5CF6&height=180&section=header&text=Mohammad%20Mehdi%20Sadeghi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
@@ -88,7 +89,7 @@
 <a href="https://porskad.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/porskad.svg?v=1" width="49%" alt="Porskad" /></a>
 <a href="https://github.com/MohammadMehdiSadeghi/NetBridge" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/netbridge.svg?v=1" width="49%" alt="NetBridge" /></a>
 <a href="https://github.com/MohammadMehdiSadeghi/CacheCleaner" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/cachecleaner.svg?v=1" width="49%" alt="CacheCleaner" /></a>
-<a href="https://github.com/MohammadMehdiSadeghi/work-buddy-rtl" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/workbuddy-rtl.svg?v=1" width="49%" alt="WorkBuddy RTL" /></a>
+<a href="https://github.com/MohammadMehdiSadeghi/work-buddy-rtl" target="_blank"><img src="https://raw.githubusercontent.com/MohammadMehdiSadeghi/profile-readme/main/assets/cards/workbuddy-rtl.svg?v=2" width="49%" alt="WorkBuddy RTL" /></a>
 
 </div>
 
